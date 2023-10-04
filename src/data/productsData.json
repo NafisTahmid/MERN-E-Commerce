@@ -1,0 +1,97 @@
+[
+    {
+        "id": "1",
+        "name": "Airpod",
+        "description": "The newly introduced to the Airpods 2 H! chip allows for a swift switch between the configurable devices, those including iPhone, iPad, iPod Touch, Apple Watch, Apple TV and Mac. Despite the lack of design changes to the 2nd generation of the AirPods, the newer edition of the device lacks the cord, making them entirely wire-free. The 2022 AirPods are offered with a Wireless charging Case, enabling Qi-base wireless charging",
+        "price": "16000",
+        "image": "https://i.ibb.co/Q6QCzJn/airpod.jpg" 
+    },
+
+    {
+        "id":2,
+        "name":"Bag",
+        "description": "The main compartment of a backpack typically has two large compartments, and these are often separated by a thin divider. There are also pockets on the outside of the bag, which can be used for carrying smaller items. Some backpacks also have a separate compartment for storing a laptop. A backpack is a type of bag that can be used for hiking, travelling, or everyday use. The main compartment of a backpack typically has two large compartments, and these are often separated by a thin divider. There are also pockets on the outside of the bag, which can be use for carrying smaller items. Some backpacks also have a separate compartment for storing a laptop",
+        "price": "4500",
+        "image": "https://i.ibb.co/37VZpqD/bag.jpg"
+    },
+
+    {
+        "id":3,
+        "name": "Body Spray",
+        "description": "Introducing our exquisite body spray, a harmonious blend of invigorating scents meticulously crafted to leave a lasting impression. Immerse yourself in a symphony of captivating fragrances that effortlessly elevate your aura. With its lightweight formula and long-lasting freshness, this body spray is the epitome of sophistication and refinement.",
+        "price" : "220",
+        "image": "https://i.ibb.co/FzB6sLF/body-spray.jpg"
+    },
+   
+    {
+        "id":4,
+        "name": "Camera",
+        "description": "Introducing our state-of-the-art camera, designed to capture every moment with stunning clarity and precision. Equipped with advanced features such as high-resolution imaging, fast autofocus, and intuitive controls, this camera is perfect for both amateur and professional photographers alike. Don't miss a single shot with our top-of-the-line camera.",
+        "price" : "22000",
+        "image" : "https://i.ibb.co/Y8fwcdm/camera.jpg" 
+    },
+
+    {
+        "id":5,
+        "name":"iPhone",
+        "description": "Introducing the iPhone, a revolutionary device that seamlessly combines cutting-edge technology with sleek design. With its powerful processor, stunning display, and advanced camera system, the iPhone offers an unparalleled user experience. Stay connected, capture memories, and enjoy a multitude of features, all in the palm of your hand.",
+        "price" : "100000",
+        "image": "https://i.ibb.co/w6hJqD4/iphone.jpg"
+    },
+
+    {
+        "id":6,
+        "name" : "Laptop",
+        "description" : "Introducing our cutting-edge laptop, a pinnacle of technological advancement. With its sleek design and lightweight construction, this device offers unparalleled portability without compromising on performance. Equipped with a high-resolution display, powerful processor, and ample storage, it ensures seamless multitasking and an immersive user experience. Experience excellence with our laptop.",
+        "price" : "180000",
+        "image" : "https://i.ibb.co/b6d6tSg/laptop.jpg"
+    },
+
+    {
+        "id" : 7,
+        "name" : "mouse",
+        "description" : "The Mouse is a highly functional and ergonomic device designed to enhance your computing experience. With its precise tracking and responsive buttons, this device offers seamless navigation and effortless control. Its sleek and compact design makes it easy to use and carry, making it an ideal choice for both personal and professional use.",
+        "price" : "300",
+        "image" : "https://i.ibb.co/0CvMmVr/mouse.jpg"
+    },
+
+    {
+        "id": 8,
+        "name" : "Mugs",
+        "description": "Introducing our exquisite ceramic mug, a perfect blend of elegance and functionality. Crafted with utmost precision, this mug boasts a sleek design and a comfortable handle for a delightful drinking experience. Its durable construction ensures long-lasting use, making it an ideal choice for both home and office settings.",
+        "price" : "200",
+        "image" : "https://i.ibb.co/jw6k4JT/mugs.jpg"
+    },
+
+    {
+        "id" : 9,
+        "name" : "Shoe",
+        "description" : "Introducing our meticulously crafted shoe, a testament to timeless elegance and unparalleled comfort. Meticulously handcrafted using premium materials, this shoe boasts a sleek design that effortlessly complements any attire. With its cushioned insole and durable outsole, it ensures optimal support and long-lasting wear. Elevate your style with our exceptional shoe.",
+        "price" : "4000",
+        "image" : "https://i.ibb.co/3SXFnfY/shoe.jpg"
+    },
+
+    {
+        "id" : 10,
+        "name" : "Sunglass",
+        "price" : "500",
+        "description" : "Introducing our premium Sunglass, crafted with precision and style. The sleek design features polarized lenses for optimal clarity and protection from harmful UV rays. The lightweight frame ensures comfort for all-day wear. Perfect for any occasion, our Sunglass is a must-have accessory for the fashion-conscious individual.",
+        "image" : "https://i.ibb.co/0h679pt/sunglass.jpg"
+    },
+
+    {
+        "id" : 11,
+        "name" : "TV",
+        "price" : "190000",
+        "description": "Introducing our state-of-the-art television, a pinnacle of technological innovation. With its sleek design and crystal-clear display, this TV offers an immersive viewing experience like no other. Equipped with advanced features and smart capabilities, it effortlessly blends functionality and elegance. Elevate your entertainment with our exceptional television.",
+        "image" : "https://i.ibb.co/2s3gWQq/tv.jpg"
+    },
+
+    {
+        "id" : 12,
+        "name": "Watch",
+        "price" : "2999",
+        "description" : "Introducing our exquisite timepiece, the epitome of elegance and precision. Crafted with meticulous attention to detail, this watch seamlessly blends sophistication and functionality. Its sleek design, coupled with a durable stainless steel case and scratch-resistant sapphire crystal, ensures both durability and timeless style. A true masterpiece for discerning individuals.",
+        "image" : "https://i.ibb.co/yRrK84y/watch.jpg" 
+    }
+]
