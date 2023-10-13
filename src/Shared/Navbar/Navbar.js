@@ -1,24 +1,50 @@
 import React from 'react';
 import './Navbar.css';
 import logo from '../../images/logo.png'
+import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg customize-navbar">
         <div className="container">
-          <a className="navbar-brand" href="/">
+          <NavLink className="navbar-brand" to="/">
             <img classNameName='img-fluid' src={logo} width={50} alt="logo" />MERN E-Commerce
-          </a>
+          </NavLink>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse text-center" id="navbarNavAltMarkup">
             <div className="navbar-nav ms-auto">
-              <a className="nav-link active" aria-current="page" href="/">Home</a>
-              <a className="nav-link" href="/products">Products</a>
-              <a className="nav-link" href="/cart">Cart</a>
-              <a className="nav-link" href="/login">Login</a>
-              <a className="nav-link" href="/profile">Profile</a>
+              <NavLink style={({ isActive}) => {
+                return {
+                  color: isActive? "red": "",
+                };
+              }} className="nav-link" to="/">Home</NavLink>
+              <NavLink style={({ isActive}) => {
+                return {
+                  color: isActive? "red": "",
+                };
+              }} className="nav-link" to="/products">Products</NavLink>
+              <NavLink style={({ isActive}) => {
+                return {
+                  color: isActive? "red": "",
+                };
+              }} className="nav-link" to="/cart">Cart</NavLink>
+              <NavLink style={({ isActive}) => {
+                return {
+                  color: isActive? "red": "",
+                };
+              }} className="nav-link" to="/login">Login</NavLink>
+              <NavLink style={({ isActive}) => {
+                return {
+                  color: isActive? "red": "",
+                };
+              }} className="nav-link" to="/profile">Profile</NavLink>
+              <NavLink style={({ isActive}) => {
+                return {
+                  color: isActive? "red": "",
+                };
+              }} className="nav-link" to="/dashboard">Dashboard</NavLink>
             </div>
           </div>
         </div>

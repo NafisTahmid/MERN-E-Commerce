@@ -3,7 +3,7 @@ import './Home.css';
 import Navbar from '../../Shared/Navbar/Navbar';
 import Hero from '../Hero/Hero';
 import TopProducts from '../TopProducts/TopProducts';
-
+import Footer from '../../Shared/Navbar/Footer/Footer';
 
 const Home = (props) => {
     return (
@@ -18,6 +18,7 @@ const Home = (props) => {
                 <TopProducts/>
            </div>
           
+            <Footer/>
         </div>
     );
 };
